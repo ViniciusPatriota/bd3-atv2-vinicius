@@ -1,0 +1,92 @@
+[
+  {
+    "_id": 1,
+    "nome": "Mini Geladeira Portátil",
+    "valor": 399.9,
+    "quantidadeEmEstoque": 10,
+    "fabricante": "FrostCool",
+    "categoria": "Eletrodomésticos",
+    "descricao": "Mini geladeira portátil com capacidade para 4L."
+  },
+  {
+    "_id": 2,
+    "nome": "Tapete Decorativo",
+    "valor": 249.9,
+    "quantidadeEmEstoque": 15,
+    "fabricante": "HomeStyle",
+    "categoria": "Decoração",
+    "descricao": "Tapete decorativo em tecido antialérgico, ideal para sala."
+  },
+  {
+    "_id": 3,
+    "nome": "Luminária de Mesa",
+    "valor": 69.9,
+    "quantidadeEmEstoque": 30,
+    "fabricante": "BrightLight",
+    "categoria": "Iluminação",
+    "descricao": "Luminária de mesa com ajuste de intensidade de luz."
+  },
+  {
+    "_id": 4,
+    "nome": "Aparelho de Jantar",
+    "valor": 299.9,
+    "quantidadeEmEstoque": 20,
+    "fabricante": "Pratos e Talheres",
+    "categoria": "Cozinha",
+    "descricao": "Conjunto de 20 peças em porcelana."
+  },
+  {
+    "_id": 5,
+    "nome": "Mochila para Notebook",
+    "valor": 199.9,
+    "quantidadeEmEstoque": 25,
+    "fabricante": "BackPackPro",
+    "categoria": "Acessórios",
+    "descricao": "Mochila para notebook com várias divisórias e resistente à água."
+  },
+  {
+    "_id": 6,
+    "nome": "Fritadeira Sem Óleo",
+    "valor": 499.9,
+    "quantidadeEmEstoque": 15,
+    "fabricante": "AirFryMaster",
+    "categoria": "Eletrodomésticos",
+    "descricao": "Fritadeira sem óleo com capacidade de 3.5L."
+  },
+  {
+    "_id": 7,
+    "nome": "Jaqueta Corta-Vento",
+    "valor": 179.9,
+    "quantidadeEmEstoque": 40,
+    "fabricante": "WindWear",
+    "categoria": "Moda",
+    "descricao": "Jaqueta leve e resistente ao vento, ideal para esportes."
+  },
+  {
+    "_id": 8,
+    "nome": "Kit de Pintura",
+    "valor": 89.9,
+    "quantidadeEmEstoque": 50,
+    "fabricante": "ArtePro",
+    "categoria": "Artes",
+    "descricao": "Kit de pintura com 12 tintas acrílicas, pincéis e tela."
+  },
+  {
+    "_id": 9,
+    "nome": "Monitor UltraWide",
+    "valor": 1299.9,
+    "quantidadeEmEstoque": 8,
+    "fabricante": "ScreenView",
+    "categoria": "Eletrônicos",
+    "descricao": "Monitor UltraWide de 34 polegadas com resolução Full HD."
+  },
+  {
+    "_id": 10,
+    "nome": "Barraca de Camping",
+    "valor": 299.9,
+    "quantidadeEmEstoque": 10,
+    "fabricante": "AdventureGear",
+    "categoria": "Esportes",
+    "descricao": "Barraca para até 4 pessoas com material resistente à água."
+  }
+]
